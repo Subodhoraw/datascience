@@ -1,0 +1,14 @@
+Basic EDA Summary
+
+Shape: (768, 9)
+
+Outcome counts:
+Outcome
+0    500
+1    268
+
+Means by outcome:
+         Pregnancies     Glucose  BloodPressure  SkinThickness     Insulin        BMI  DiabetesPedigreeFunction        Age
+Outcome                                                                                                                   
+0           3.298000  110.682000      70.920000      27.726000  127.792000  30.885600                  0.429734  31.190000
+1           4.865672  142.130597      75.123134      31.686567  164.701493  35.383582                  0.550500  37.067164
